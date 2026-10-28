@@ -1,0 +1,2 @@
+led_display.c:4:6:setLight1	16	static
+led_display.c:10:6:setLight2	16	static

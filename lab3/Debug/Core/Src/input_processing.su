@@ -1,0 +1,6 @@
+input_processing.c:23:6:fsm_for_input_processing	8	static
+input_processing.c:42:6:fsm_mode_1	8	static
+input_processing.c:125:6:fsm_mode_2	8	static
+input_processing.c:149:6:fsm_mode_3	8	static
+input_processing.c:174:6:fsm_mode_4	8	static
+input_processing.c:197:6:fsm_system	8	static
