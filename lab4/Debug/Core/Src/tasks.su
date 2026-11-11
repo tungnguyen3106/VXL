@@ -1,0 +1,8 @@
+tasks.c:9:6:print_task_info	80	static
+tasks.c:15:6:task_led_05s	8	static
+tasks.c:20:6:task_led_10s	8	static
+tasks.c:25:6:task_led_15s	8	static
+tasks.c:30:6:task_led_20s	8	static
+tasks.c:35:6:task_led_25s	8	static
+tasks.c:40:6:task_oneshot_print	8	static
+tasks.c:44:6:task_print_10ms	40	static
